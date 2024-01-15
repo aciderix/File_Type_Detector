@@ -15,7 +15,7 @@ File Type Detector is a Python tool with a graphical user interface (GUI) design
 1. Download the program by clicking the "Code" button and selecting "Download ZIP."
 2. Extract the contents of the downloaded ZIP file.
 3. Ensure you have Python installed on your system (download from [the official Python website](https://www.python.org/)).
-4. Double-click on the `retrouver_extensions_gui.exe` file to launch the program.
+4. Double-click on the `retrouver_extensions_gui.py` file to launch the program.
 5. Click on the "Browse for Folder" button to select the target folder for analysis.
 6. The progress bar indicates the processing status.
 7. Once complete, a message will appear, and you can open the generated `liste_fichiers.txt` file.
